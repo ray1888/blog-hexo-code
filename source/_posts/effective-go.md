@@ -1,7 +1,7 @@
 ---
 title: Effective Go Reading
 date: 2019-09-16 11:07:38
-tags: go
+tags: Go
 ---
 
 
