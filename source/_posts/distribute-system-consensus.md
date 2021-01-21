@@ -1,6 +1,6 @@
 ---
 title: 分布式系统一致性与共识
-date: 2019-08-20 11:08:38
+date: 2019-08-28 21:08:38
 tags: distributed-system
 ---
 
