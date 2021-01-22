@@ -103,4 +103,6 @@ theme: stun
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/ray1888/ray1888.github.io.git
+  branch: gh-pages
